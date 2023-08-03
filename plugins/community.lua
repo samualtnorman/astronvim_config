@@ -10,5 +10,7 @@ return {
   { import = "astrocommunity.colorscheme.tokyonight-nvim" },
   { import = "astrocommunity.pack.prisma" },
   { import = "astrocommunity.pack.yaml" },
-  { import = "astrocommunity.terminal-integration.vim-tmux-yank" }
+  { import = "astrocommunity.terminal-integration.vim-tmux-yank" },
+  { import = "astrocommunity.pack.php" },
+  { import = "astrocommunity.pack.tailwindcss" }
 }
