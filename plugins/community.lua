@@ -12,5 +12,6 @@ return {
   { import = "astrocommunity.pack.yaml" },
   { import = "astrocommunity.terminal-integration.vim-tmux-yank" },
   { import = "astrocommunity.pack.php" },
-  { import = "astrocommunity.pack.tailwindcss" }
+  { import = "astrocommunity.pack.tailwindcss" },
+  { import = "astrocommunity.pack.docker" }
 }
