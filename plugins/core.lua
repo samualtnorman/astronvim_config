@@ -32,7 +32,8 @@ return {
         }
       }
     }
-  }
+  },
+  { "HiPhish/nvim-ts-rainbow2", opts = { rainbow = { enable = true, query = 'rainbow-parens' } } }
   -- You can disable default plugins as follows:
   -- { "max397574/better-escape.nvim", enabled = false },
   --
