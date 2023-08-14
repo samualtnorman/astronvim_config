@@ -15,6 +15,7 @@ return {
   { import = "astrocommunity.pack.php" },
   { import = "astrocommunity.pack.tailwindcss" },
   { import = "astrocommunity.pack.docker" },
+  { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.scrolling.mini-animate" },
   { import = "astrocommunity.scrolling.nvim-scrollbar" },
   { import = "astrocommunity.terminal-integration.flatten-nvim" },
@@ -26,5 +27,7 @@ return {
   { import = "astrocommunity.editing-support.multicursors-nvim" },
   { import = "astrocommunity.editing-support.rainbow-delimiters-nvim" },
   { import = "astrocommunity.editing-support.todo-comments-nvim" },
-  { import = "astrocommunity.git.diffview-nvim" }
+  { import = "astrocommunity.git.diffview-nvim" },
+  { import = "astrocommunity.markdown-and-latex.glow-nvim" },
+  { import = "astrocommunity.markdown-and-latex.markdown-preview-nvim" }
 }
